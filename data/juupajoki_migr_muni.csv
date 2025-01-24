@@ -1,7 +1,4 @@
 "source","target","value"
-"Juupajoki","Kuopio",1
-"Juupajoki","Kuusamo",2
-"Juupajoki","Orivesi",7
-"Tampere","Juupajoki",4
-"Vantaa","Juupajoki",1
-"Ylitornio","Juupajoki",1
+"Juupajoki","Orivesi",3
+"Juupajoki","Tampere",3
+"Orivesi","Juupajoki",2
